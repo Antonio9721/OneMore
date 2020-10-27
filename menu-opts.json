@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "home-outline",
+    "name": "Acerca de",
+    "redirecTo": "/acerca"
+  },
+  {
+    "icon": "help-circle-outline",
+    "name": "Información",
+    "redirecTo": "/informacion"
+  },
+  {
+    "icon": "hand-right-outline",
+    "name": "Recomendaciones y opiniones",
+    "redirecTo": "/opinion"
+  },
+  {
+    "icon": "share-outline",
+    "name": "Publicaciones",
+    "redirecTo": "/publicacion"
+  },
+  {
+    "icon": "camera-outline",
+    "name": "Fotos",
+    "redirecTo": "/fotos"
+  },
+  {
+    "icon": "people-outline",
+    "name": "Comunidad",
+    "redirecTo": "/comunidad"
+  }
+]
